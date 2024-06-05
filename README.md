@@ -1,2 +1,2 @@
-# Aula- De Data Visualization
+# Aula- Data Visualization
 Criando Graficos com biblioteca Python 
